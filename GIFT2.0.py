@@ -18,7 +18,7 @@ dump, sandi, metode = [], [], []
 tetel, opsi, proxy = [], [], []
 cepeh, sam, ugen2, ugen, ugen5, redmi = [], [], [], [], [], []
 id, id2, loop ,ok , cp = [], [], 0, 0, 0
-os.system("xdg-open https://youtube.com/@ikbsolution2665")
+os.system("xdg-open https://www.facebook.com/MARWAN.TECH1")
 logo=("""\033[1;37m 
 
 
@@ -34,9 +34,9 @@ logo=("""\033[1;37m
           
 \033[47m\033[1;31m EID GIFT  \033[41m\033[1;37m FOR ALL. \x1b[0m
 \033[1;37m----------------------------------------------
- Author    : 
- Facebook  : 
- Tool Name : ikx
+ Author    : YASIR AFRIDI
+ Facebook  : 💔
+ Tool Name : GifT
  Version   : PERSONAL
 \033[1;37m----------------------------------------------
 
@@ -316,7 +316,7 @@ def dubal():
     print(47*'-')
     ikb()
 def mysocial():
-	os.system("xdg-open https://youtube.com/@ikbsolution2665")
+	os.system("xdg-open https://www.facebook.com/MARWAN.TECH1")
 	ikb()
 import os
 import re
